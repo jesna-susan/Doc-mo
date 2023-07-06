@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "351288136913",
+    "project_id": "mini-docmo",
+    "storage_bucket": "mini-docmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351288136913:android:aec789baadfe7997c061f0",
+        "android_client_info": {
+          "package_name": "com.example.docmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351288136913-75qfri3opebfids5g5ujqd9fua2hcom6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCflTfAOVxzMRl_efUMgHXSa3BRdjdzV5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351288136913-75qfri3opebfids5g5ujqd9fua2hcom6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351288136913-gjmimnkdkvafqah7iaopv18kgu7j6uu3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.docmo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
